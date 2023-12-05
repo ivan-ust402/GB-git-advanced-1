@@ -1,1 +1,1 @@
-# GB-git-advanced-1
+# Remote conflict line
